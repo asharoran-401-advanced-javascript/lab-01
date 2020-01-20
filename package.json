@@ -4,8 +4,10 @@
   "description": "this will be sooooo cool",
   "main": "index.js",
   "scripts": {
+    "start": "index.js",
     "test": "jest --verbose --coverage",
-    "lint": "eslint '**/*.js'"
+    "lint": "eslint '**/*.js'",
+    "test-watch": "jest --watchAll --verbose --coverage"
   },
   "author": "ashar",
   "license": "MIT",
