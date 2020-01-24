@@ -18,3 +18,5 @@ validator.js
 * npm run test runs the unit test
 * npm test 
 ## UMl
+
+image : [https://github.com/asharoran-401-advanced-javascript/lab-01/blob/lab-01/assets/lab%2001.jpg]
